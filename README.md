@@ -1,7 +1,7 @@
 # Evaluation: A Comprehensive Testbed for Evaluating the Robustness of Endpoint Detection
 
 ![](./pic/framework.png)
-**Evaluation**: a comprehensive, data-driven framework for evaluating the robustness of endpoint detection systems under adversarial conditions. It is designed to model two distinct but realistic adversarial strategies:
+**Evaluation**: a comprehensive, data-driven testbed for evaluating the robustness of endpoint detection systems under adversarial conditions. It is designed to model two distinct but realistic adversarial strategies:
 
 * **Data poisoning attacks** targeting the **training phase**, and
 * **Mimicry attacks** targeting the **inference phase**.
